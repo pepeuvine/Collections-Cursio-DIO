@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10400061-cd12-40a3-91b3-0ae6ca9e2c25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/OperacoesBasicas/CarrinhoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/OperacoesBasicas/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/OperacoesBasicas/ListaTarefas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/OperacoesBasicas/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/OperacoesBasicas/TesteCarrinhoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/OperacoesBasicas/TesteListaDeTarefas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Ordenacao/OrdenacaoPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Ordenacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Ordenacao/TesteOrdenacaoPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Pesquisa/CatalogoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Pesquisa/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Pesquisa/SomaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Pesquisa/TesteCatalogoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/Pesquisa/TesteSomaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/OperacoesBasicas/ConjuntoPalavrasUnicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/OperacoesBasicas/Convidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/OperacoesBasicas/TesteConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/OperacoesBasicas/TesteConjuntoPalavras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Pesquisa/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Pesquisa/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Pesquisa/ListaTarefas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Pesquisa/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Pesquisa/TesteAgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Pesquisa/TesteListaTarefas.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2i1CF2ptMikQzFKc9LZu3jDNDit" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Teste.executor": "Run",
+    "Application.TesteAgendaContatos.executor": "Run",
+    "Application.TesteCarrinhoDeCompras.executor": "Run",
+    "Application.TesteCatalogoLivros.executor": "Run",
+    "Application.TesteConjuntoConvidados.executor": "Run",
+    "Application.TesteConjuntoPalavras.executor": "Run",
+    "Application.TesteListaDeTarefas.executor": "Run",
+    "Application.TesteListaTarefas.executor": "Run",
+    "Application.TesteOrdenacaoPessoas.executor": "Run",
+    "Application.TesteSomaNumeros.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Documentos/Bootcamp DIO - Java com IA/Collections/Exercicios/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Set.Pesquisa" />
+      <recent name="Lists.Ordenacao" />
+      <recent name="Lists.Pesquisa" />
+      <recent name="Lists" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteListaTarefas">
+    <configuration name="TesteAgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.Pesquisa.TesteAgendaContatos" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConjuntoConvidados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.OperacoesBasicas.TesteConjuntoConvidados" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.OperacoesBasicas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConjuntoPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.OperacoesBasicas.TesteConjuntoPalavras" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.OperacoesBasicas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.Pesquisa.TesteListaTarefas" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteOrdenacaoPessoas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.Ordenacao.TesteOrdenacaoPessoas" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lists.Ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteListaTarefas" />
+        <item itemvalue="Application.TesteAgendaContatos" />
+        <item itemvalue="Application.TesteConjuntoPalavras" />
+        <item itemvalue="Application.TesteConjuntoConvidados" />
+        <item itemvalue="Application.TesteOrdenacaoPessoas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10400061-cd12-40a3-91b3-0ae6ca9e2c25" name="Changes" comment="" />
+      <created>1718648590053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718648590053</updated>
+    </task>
+    <servers />
+  </component>
+</project>
