@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10400061-cd12-40a3-91b3-0ae6ca9e2c25" name="Changes" comment="Criação do Projeto com os códigos feitos até o momento.">
-      <change afterPath="$PROJECT_DIR$/src/Set/Ordenacao/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Ordenacao/CadastroProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Ordenacao/GerenciadorAlunos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Ordenacao/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Ordenacao/TesteCadastroProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Ordenacao/TesteListaAlunos.java" afterDir="false" />
+    <list default="true" id="10400061-cd12-40a3-91b3-0ae6ca9e2c25" name="Changes" comment="Adição dos códigos referentes a ordenação da interface Set.">
+      <change afterPath="$PROJECT_DIR$/src/Map/OperacoesBasicas/ExemploAgendaDeContatos/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/OperacoesBasicas/ExemploAgendaDeContatos/TesteAgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/OperacoesBasicas/ExemploDicionario/Dicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/OperacoesBasicas/ExemploDicionario/TesteDicionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ordenacao/ExemploAgendaDeEventos/AgendaEventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ordenacao/ExemploAgendaDeEventos/Evento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ordenacao/ExemploAgendaDeEventos/TesteAgendaEventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ordenacao/ExemploLivrariaOnline/LivrariaOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ordenacao/ExemploLivrariaOnline/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ordenacao/ExemploLivrariaOnline/TesteLivariaOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Pesquisa/ExercicioContagemDePalavras/ContagemPalavras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Pesquisa/ExercicioEstoqueDeProdutos/EstoqueProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Pesquisa/ExercicioEstoqueDeProdutos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Pesquisa/ExercicioEstoqueDeProdutos/TesteEstoqueProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +50,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Map.OperacoesBasicas.ExemploAgendaDeContatos.TesteAgendaContatos.executor": "Run",
     "Application.Teste.executor": "Run",
     "Application.TesteAgendaContatos.executor": "Run",
+    "Application.TesteAgendaEventos.executor": "Run",
     "Application.TesteCadastroProdutos.executor": "Run",
     "Application.TesteCarrinhoDeCompras.executor": "Run",
     "Application.TesteCatalogoLivros.executor": "Run",
     "Application.TesteConjuntoConvidados.executor": "Run",
     "Application.TesteConjuntoPalavras.executor": "Run",
+    "Application.TesteDicionario.executor": "Run",
+    "Application.TesteEstoqueProduto.executor": "Run",
     "Application.TesteListaAlunos.executor": "Run",
     "Application.TesteListaDeTarefas.executor": "Run",
     "Application.TesteListaTarefas.executor": "Run",
+    "Application.TesteLivariaOnline.executor": "Run",
     "Application.TesteOrdenacaoPessoas.executor": "Run",
     "Application.TesteSomaNumeros.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,20 +76,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Map.Ordenacao" />
       <recent name="Set.Ordenacao" />
       <recent name="Set.Pesquisa" />
       <recent name="Lists.Ordenacao" />
       <recent name="Lists.Pesquisa" />
-      <recent name="Lists" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Map.Ordenacao.ExemploAgendaDeEventos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteListaAlunos">
-    <configuration name="TesteAgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Pesquisa.TesteAgendaContatos" />
+  <component name="RunManager" selected="Application.TesteLivariaOnline">
+    <configuration name="Map.OperacoesBasicas.ExemploAgendaDeContatos.TesteAgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.OperacoesBasicas.ExemploAgendaDeContatos.TesteAgendaContatos" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Pesquisa.*" />
+          <option name="PATTERN" value="Map.OperacoesBasicas.ExemploAgendaDeContatos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.TesteCadastroProdutos" />
+    <configuration name="TesteAgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.Ordenacao.ExemploAgendaDeEventos.TesteAgendaEventos" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Ordenacao.*" />
+          <option name="PATTERN" value="Map.Ordenacao.ExemploLivrariaOnline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteConjuntoPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.OperacoesBasicas.TesteConjuntoPalavras" />
+    <configuration name="TesteDicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.OperacoesBasicas.ExemploDicionario.TesteDicionario" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.OperacoesBasicas.*" />
+          <option name="PATTERN" value="Map.OperacoesBasicas.ExemploDicionario.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteListaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Ordenacao.TesteListaAlunos" />
+    <configuration name="TesteEstoqueProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.Pesquisa.ExercicioEstoqueDeProdutos.TesteEstoqueProduto" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Ordenacao.*" />
+          <option name="PATTERN" value="Map.Pesquisa.ExercicioEstoqueDeProdutos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set.Pesquisa.TesteListaTarefas" />
+    <configuration name="TesteLivariaOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.Ordenacao.ExemploLivrariaOnline.TesteLivariaOnline" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Set.Pesquisa.*" />
+          <option name="PATTERN" value="Map.Ordenacao.ExemploLivrariaOnline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteListaAlunos" />
-        <item itemvalue="Application.TesteCadastroProdutos" />
-        <item itemvalue="Application.TesteListaTarefas" />
-        <item itemvalue="Application.TesteAgendaContatos" />
-        <item itemvalue="Application.TesteConjuntoPalavras" />
+        <item itemvalue="Application.TesteLivariaOnline" />
+        <item itemvalue="Application.TesteAgendaEventos" />
+        <item itemvalue="Application.TesteEstoqueProduto" />
+        <item itemvalue="Application.TesteDicionario" />
+        <item itemvalue="Application.Map.OperacoesBasicas.ExemploAgendaDeContatos.TesteAgendaContatos" />
       </list>
     </recent_temporary>
   </component>
@@ -162,11 +179,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718764029198</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adição dos códigos referentes a ordenação da interface Set.">
+      <option name="closed" value="true" />
+      <created>1718847416379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718847416379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do Projeto com os códigos feitos até o momento." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação do Projeto com os códigos feitos até o momento." />
+    <MESSAGE value="Adição dos códigos referentes a ordenação da interface Set." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição dos códigos referentes a ordenação da interface Set." />
   </component>
 </project>
